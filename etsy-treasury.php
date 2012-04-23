@@ -113,7 +113,7 @@ function sh_tinymce_ajax_hack() {
   $sh_base_dir = WP_PLUGIN_URL . '/' . str_replace(basename( __FILE__), "" ,plugin_basename(__FILE__));
 	echo '<script>
 			var sh_code_uri = "admin-ajax.php?action=get_tinymce_popup&width=630&height=450";
-			var img_uri = "'.$sh_base_dir.'images/sh-icon.png";
+			var img_uri = "'.$sh_base_dir.'sh-icon.png";
 	</script>';
 }
 

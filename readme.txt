@@ -3,7 +3,7 @@ Contributors: gregsu, renjithtv
 Tags: etsy, treasury
 Requires at least: 3.1
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Add an Etsy Treasury to your blog post quickly and easily with beautiful and customizable layouts.
 
@@ -64,6 +64,6 @@ Try a combination of changing the number of columns in the displayed Treasury an
 
 == Changelog ==
 
-= 0.1 = 
-* Fully functional first version.
+= 1.1 = 
+* Fully functional with fixed icon image.
 
